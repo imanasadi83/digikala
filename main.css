@@ -249,3 +249,30 @@ body {
   height: 100%;
   object-fit: cover;
 }
+.ax1 {
+  width: 100%;
+  height: 300px;
+}
+.daste {
+  background-color: white;
+  cursor: pointer;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.matn {
+  direction: rtl;
+  margin: 10px 589px;
+}
+.top {
+  position: absolute;
+  z-index: 2;
+}
+.top1 {
+  border-radius: 50px;
+  border: none;
+  background-color: #e1324e;
+  bottom: 30px;
+  left: 30px;
+  position: fixed;
+}
